@@ -3,11 +3,11 @@ main:
   - title: "Blog"
     url: /year-archive/
   
-  - title: "Publications"
-    url: /publications/  
+  #- title: "Publications"
+   # url: /publications/  
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
         
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+  #  url: /cv/
