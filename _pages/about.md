@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Dow's website. In the future it will be used for academic purposes, but right now it's being used to record my thoughts and pictures from walk on the Pacific Crest Trail.
+This is Dow's website. In the future it will be used for academic purposes, but right now it's being used to record thoughts and pictures from my walk on the Pacific Crest Trail.
