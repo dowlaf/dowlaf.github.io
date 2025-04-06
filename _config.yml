@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dow's Website"
+title                    : "C. Dow LaFevers"
 title_separator          : "-"
 name                     : &name "C. Dow LaFevers"
 description              : &description "PhD Student at XXX University. Does other things too."
@@ -21,7 +21,7 @@ repository               : "dowlaf/dowlaf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_6432.png"
   name             : "C. Dow LaFevers"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics PhD Student at XXX University. Does other things too."
