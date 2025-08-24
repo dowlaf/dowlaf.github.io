@@ -21,11 +21,11 @@ repository               : "dowlaf/dowlaf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_6432.png"
+  avatar           : "IMG_1966.jpeg"
   name             : "C. Dow LaFevers"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics PhD Student at Rice University. Does other things too."
-  location         : "Southern California"
+  location         : "Houston, Texas"
   employer         : "Rice University"
   uri              : # URL
   email            : "???" 
