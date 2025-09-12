@@ -44,6 +44,9 @@
 
 
 
+/* make avatar square with no border and no shadow */
 img.author__avatar {
-  border-radius: 0 !important;
+  border-radius: 0 !important;   /* already making it square */
+  border: none !important;       /* remove white border */
+  box-shadow: none !important;   /* remove shadow */
 }
