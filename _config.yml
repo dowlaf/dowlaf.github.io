@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "C. Dow LaFevers"
 title_separator          : "-"
 name                     : &name "C. Dow LaFevers"
-description              : &description "Incoming PhD Student at Rice University. Does other things too."
+description              : &description "First year PhD Student at Rice University. Does other things too."
 url                      : https://dowlaf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dowlaf/dowlaf.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "IMG_1966.jpeg"
   name             : "C. Dow LaFevers"
   pronouns         : # example: "she/her"  
-  bio              : "Mathematics PhD Student at Rice University. Does other things too."
+  bio              : "First Year Mathematics PhD Student at Rice University. Does other things too."
   location         : "Houston, Texas"
   employer         : "Rice University"
   uri              : # URL
-  email            : "???" 
+  email            : "dowlaf@rice.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -62,6 +62,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
+  strava           : Dow ‎ 
   telegram         : # URL
   tumblr           : # Username
   twitter          :  # Replace this with your X / Twitter handle
