@@ -12,7 +12,7 @@ title                    : "C. Dow LaFevers"
 title_separator          : "-"
 name                     : &name "C. Dow LaFevers"
 description              : &description "First year PhD Student at Rice University. Does other things too."
-url                      : https://dowlaf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dowlaf.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dowlaf/dowlaf.github.io"
 
