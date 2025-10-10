@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Dow's website. In the future it will be used for academic purposes, but right now it's being used to record thoughts and pictures from my walk on the Pacific Crest Trail.
+I'm a first-year graduate student at Rice University.
+
+I like to think about dynamical systems and with an eye towards geometry and number theory, but I am an enthusiast of many areas of mathematics. 
