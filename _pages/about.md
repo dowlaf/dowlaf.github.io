@@ -9,4 +9,4 @@ redirect_from:
 
 I'm a first-year graduate student at Rice University.
 
-I like to think about dynamical systems and with an eye towards geometry and number theory, but I am an enthusiast of many areas of mathematics. 
+I like to think about dynamical systems with an eye towards geometry and number theory, but I am an enthusiast of many areas of mathematics. 
