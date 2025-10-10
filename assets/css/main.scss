@@ -44,7 +44,8 @@
 
 
 
-/* make avatar square with no border and no shadow */
+/* make avatar square with no border and no shadow
+I think i fixed this in the sass.
 img.author__avatar {
   border-radius: 0 !important;   
   border: none !important;       
@@ -52,3 +53,4 @@ img.author__avatar {
   width: 250px !important;   
   max-width: none !important; 
 }
+  */
