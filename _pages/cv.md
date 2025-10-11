@@ -8,21 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
 
-<p style="text-align: center;">
-  <a class="btn btn--primary" href="{{ '/files/lafevers-cv.pdf' | relative_url }}" target="_blank" rel="noopener">
-    📄 View / Download Full CV (PDF)
-  </a>
-</p>
+If the embedded PDF below does not load, you can <u><a href="https://dowlaf.com/lafevers-cv.pdf">download it here.</a></u>
+<br/>
 
-<object
-  data="{{ '/files/lafevers-cv.pdf' | relative_url }}"
-  type="application/pdf"
-  width="100%"
-  height="900px"
-  style="border: 1px solid #ddd; border-radius: 8px;">
-  <p style="text-align:center;">
-    Your browser doesn’t support embedded PDFs.<br>
-    <a href="{{ '/files/lafevers-cv.pdf' | relative_url }}">Download the CV instead.</a>
-  </p>
-</object>
+<iframe src="https://dowlaf.com/lafevers-cv.pdf" width="100%" height="1000px" frameborder="0">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="https://dowlaf.com/lafevers-cv.pdf">Download PDF</a>
+</iframe>
