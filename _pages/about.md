@@ -16,9 +16,9 @@ I'm currently reading
 
 - *Ergodic Theory and Topological Dynamics of Group Actions on Homogeneous Spaces* by M. Bachir Bekka and Matthias Mayer
 - *A Course in Arithmetic* by J.P. Serre
-- *A River Runs Through It and Other Stories* by Norman Maclean
-- *Collected Poems* by Alexander Theroux
+- *A Place in The Country" by W.G. Sebald
+- *Leaves of Grass* by Walt Whitman
 
-(Last updated October 23, 2025)
+(Last updated October 27, 2025)
 
 But mostly I'm studying for quals.
