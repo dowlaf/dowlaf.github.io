@@ -16,7 +16,7 @@ I'm currently reading
 
 - *Ergodic Theory and Topological Dynamics of Group Actions on Homogeneous Spaces* by M. Bachir Bekka and Matthias Mayer
 - *A Course in Arithmetic* by J.P. Serre
-- *A Place in The Country" by W.G. Sebald
+- *A Place in The Country* by W.G. Sebald
 - *Leaves of Grass* by Walt Whitman
 
 (Last updated October 27, 2025)
