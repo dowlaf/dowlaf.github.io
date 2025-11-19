@@ -17,8 +17,8 @@ I'm currently reading
 - *Ergodic Theory and Topological Dynamics of Group Actions on Homogeneous Spaces* by M. Bachir Bekka and Matthias Mayer
 - *A Course in Arithmetic* by J.P. Serre
 - *Faust: Part One* by J.W. Goethe
-- *Leaves of Grass* by Walt Whitman
+- *Coming into the Country" by John McPhee
 
-(Last updated November 1, 2025)
+(Last updated November 18, 2025)
 
 But mostly I'm studying for quals.
