@@ -15,9 +15,8 @@ I'm currently reading
 
 - *Ergodic Theory and Topological Dynamics of Group Actions on Homogeneous Spaces* by M. Bachir Bekka and Matthias Mayer
 - *A Course in Arithmetic* by J.P. Serre
-- *Faust: Part One* by J.W. Goethe
+- *A Gentle Course in Local Class Field Theory* by Pierre Guillot
 - *Coming into the Country* by John McPhee
+- *Left Out in the Rain* by Gary Snyder
 
-(Last updated November 18, 2025)
-
-But mostly I'm studying for quals.
+(Last updated January 26, 2026)
