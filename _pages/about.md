@@ -16,7 +16,9 @@ I'm currently reading
 - *Ergodic Theory and Topological Dynamics of Group Actions on Homogeneous Spaces* by M. Bachir Bekka and Matthias Mayer
 - *A Course in Arithmetic* by J.P. Serre
 - *A Gentle Course in Local Class Field Theory* by Pierre Guillot
-- *Left Out in the Rain* by Gary Snyder
-- *By Night in Chile* by Roberto Bolaño
+- *Semiclassical Analysis* by Maciej Zworski
+- *Faust, Part Two* by Goethe
+- *How to be Alone* by Jonathan Franzen
 
-(Last updated January 28, 2026)
+
+(Last updated February 5, 2026)
