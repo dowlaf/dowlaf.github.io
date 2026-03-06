@@ -14,11 +14,12 @@ I like to think about dynamical systems with an eye towards geometry and number 
 I'm currently reading
 
 - *Ergodic Theory and Topological Dynamics of Group Actions on Homogeneous Spaces* by M. Bachir Bekka and Matthias Mayer
-- *A Course in Arithmetic* by J.P. Serre
+- "Non-Arithmetic Groups in Lobachevsky Spaces" by Gromov and Piatetski-Shapiro
 - *A Gentle Course in Local Class Field Theory* by Pierre Guillot
 - *Semiclassical Analysis* by Maciej Zworski
 - *Faust, Part Two* by Goethe
-- *How to be Alone* by Jonathan Franzen
+- *Gravity's Rainbow* by Thomas Pynchon
+- *Drive Your Plow Over the Bones of the Dead* by Olga Tokarczuk
 
 
-(Last updated February 5, 2026)
+(Last updated March 6, 2026)
