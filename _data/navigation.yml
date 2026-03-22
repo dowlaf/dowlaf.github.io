@@ -8,6 +8,12 @@ main:
 
   - title: "Blog"
     url: /year-archive/
+  
+  - title: "backpacking"
+    url: /backpacking/
+
+
+# social links- t
 
   #- title: "Teaching"
   #  url: /teaching/   

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Backpacking blog"
-permalink: /blog/
+permalink: /backpacking/
 author_profile: true
 entries_layout: grid
 classes: wide
