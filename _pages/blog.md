@@ -2,7 +2,7 @@
 layout: archive
 title: "Backpacking blog"
 permalink: /backpacking/
-author_profile: true
+author_profile: false
 entries_layout: grid
 classes: wide
 ---
