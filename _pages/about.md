@@ -19,7 +19,7 @@ I'm currently reading
 - *Semiclassical Analysis* by Maciej Zworski
 - *Faust, Part Two* by Goethe
 - *Gravity's Rainbow* by Thomas Pynchon
-- *Drive Your Plow Over the Bones of the Dead* by Olga Tokarczuk
+- *Wittgenstein's Mistress* by David Markson
 
 
-(Last updated March 6, 2026)
+(Last updated March 22, 2026)
