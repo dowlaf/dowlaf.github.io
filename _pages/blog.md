@@ -7,10 +7,12 @@ entries_layout: grid
 classes: wide
 ---
 
-Test
+I like to write about my backpacking trips. All except the most recent posts are daily blog posts from my 2025 through hike of the Pacific Crest Trail. 
 
-Number of backpacking posts found: {{ site.categories.backpacking | size }}
+
 {% assign posts = site.categories.backpacking %}
 {% for post in posts %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+
+One day this page will be more organized...
