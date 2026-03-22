@@ -9,7 +9,7 @@ classes: wide
 
 Test
 
-{% assign posts = site.categories.Backpacking %}
+{% assign posts = site.categories.backpacking %}
 {% for post in posts %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
