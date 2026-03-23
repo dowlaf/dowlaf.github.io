@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Backpacking blog"
-permalink: /backpacking/
-author_profile: false
+title: "Blog"
+permalink: /blog/
+author_profile: True
 entries_layout: grid
 classes: wide
 ---
@@ -14,5 +14,3 @@ I like to write about my backpacking trips. All except the most recent posts are
 {% for post in posts %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
-
-One day this page will be more organized...
