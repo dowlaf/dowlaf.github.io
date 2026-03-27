@@ -4,6 +4,10 @@ date: 2025-07-21
 permalink: /posts/2025/07/Southern Oregon/
 tags:
   - PCT
+categories: 
+  - backpacking
+header:
+  teaser: IMG_3413.jpeg
 ---
 
 Oregon has been pretty rough: for the first several days out of Ashland, it has gotten up to the high 90s by noon each day, the trail has been more of a green tunnel than in any part of California, and the mosquitoes have become truly vicious, swarming me even when I walk at top speed and truly raining hellfire at camp. Simultaneously, I have been unable to get a good night of sleep, so I have felt like a zombie from morning until night. This has resulted in the biggest lack of motivation and enjoyment I have felt on trail—at various times I considered skipping ahead or taking time off to reinvigorate myself. The days from Ashland to Crater Lake were particularly bad, just slogs from start to finish. 
