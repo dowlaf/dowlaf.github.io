@@ -7,7 +7,7 @@ tags:
 categories: 
   - backpacking
 header:
-  teaser: IMG_.jpeg
+  teaser: IMG_8655.jpeg
 ---
 
 The first bullet point of my journal is "holy shit." That's a pretty good summary of my impression of 
@@ -16,8 +16,8 @@ The first bullet point of my journal is "holy shit." That's a pretty good summar
 
 After eating far too much breakfast ice cream and dropping off some unneeded gear at a ranger friend of a friend's house, we took the long shuttle out to Hermit's Rest to begin our hike. We started hiking at noon, just in time for the hottest part of the day. 
 
-![a](/images/bailey33.jpg)
-![a](/images/bailey26.jpg)
+![a](/images/bailey33.jpeg)
+![a](/images/bailey26.jpeg)
 ![a](/images/IMG_8569.jpeg)
 ![a](/images/IMG_8578.jpeg)
 ![a](/images/IMG_8579.jpeg)
@@ -26,10 +26,10 @@ After checking out the underwhelming Dripping Springs (the drip was slow enough 
 
 ![a](/images/IMG_8584.jpeg)
 ![a](/images/IMG_8586.jpeg)
-![a](/images/bailey2.jpg)
-![a](/images/bailey20.jpg)
-![a](/images/bailey16.jpg)
-![a](/images/bailey32.jpg)
+![a](/images/bailey2.jpeg)
+![a](/images/bailey20.jpeg)
+![a](/images/bailey16.jpeg)
+![a](/images/bailey32.jpeg)
 
 As we descended through the Supai group and into the Redwall limestone, the trail hugged the edges of several cliffs which made my palms sweat and had us scramble down a few rockfalls, though thankfully neither simultaneously.
 
@@ -67,27 +67,27 @@ After grabbing the packs we left by the creek, we climbed about 1,200 feet to ge
 After six hot miles, we each took a nap at Hermit Creek (much needed for me, since the cold/flu I was coming down was really messing with my sleep) before ambling towards Monument Creek—so-named for a ~300 foot totally free-standing pinnacle shooting out of the creek:
 
 ![a](/images/IMG_8665.jpeg)
-![a](/images/bailey28.jpg)
-![a](/images/bailey29.jpg)
-![a](/images/bailey5.jpg)
+![a](/images/bailey28.jpeg)
+![a](/images/bailey29.jpeg)
+![a](/images/bailey5.jpeg)
 
 Following the advice of the ranger who issued our permit, instead of taking the trail down to our campsite at Granite Rapids, we opted to follow the canyon cut out by Monument Creek down to the Colorado. The first half mile or so was a narrow granite canyon with lots of waterfalls and beautiful rock. 
 
 ![a](/images/IMG_8666.jpeg)
 ![a](/images/IMG_8670.jpeg)
 ![a](/images/IMG_8673.jpeg)
-![a](/images/bailey35.jpg)
-![a](/images/bailey9.jpg)
-![a](/images/bailey24.jpg)
-![a](/images/bailey25.jpg)
-![a](/images/bailey23.jpg)
-![a](/images/bailey27.jpg)
-![a](/images/bailey31.jpg)
-![a](/images/bailey13.jpg)
+![a](/images/bailey35.jpeg)
+![a](/images/bailey9.jpeg)
+![a](/images/bailey24.jpeg)
+![a](/images/bailey25.jpeg)
+![a](/images/bailey23.jpeg)
+![a](/images/bailey27.jpeg)
+![a](/images/bailey31.jpeg)
+![a](/images/bailey13.jpeg)
 
 Once we got out of the narrows, we realized just how hot it was down so low; the nights above the rim on the AZT had been in the twenties, while tonight we would be lucky if it dropped below sixty. We stocked up on water from the very alkaline Monument Creek to avoid drinking the Colorado, which to my understanding is just as much water as it is silt, giardia, and rafter piss. We spent the rest of the day cooling off in that lovely concoction and relaxing on the beach. I got a book of Michael Chabon short stories at the South Rim library in anticipation of such down time, so I got to work on those while Bailey, characteristically, alternatively slept and ate.
 
-![a](/images/bailey7.jpg)
+![a](/images/bailey7.jpeg)
 
 Eventually, rafters arrived, and we socialized with them for the rest of the evening. They were a very interesting bunch, ranging fifty years in age and hailing from across the US (though mostly the southwest). Many of the old dudes had floated the Grand a double-digit number of times, so they were making this trip interesting by doing technical canyoneering on their zero days, doing complicated descents involving rappels of more than three hundred feet. Sounds fun. 
 
@@ -98,20 +98,20 @@ Eventually, rafters arrived, and we socialized with them for the rest of the eve
 
 The wind picked up after dark and we got sandblasted all night. Despite the nose and mouth full of sand, waking up to the light reflected off the Colorado on the rocks all around us was such a treat. 
 
-![a](/images/bailey3.jpg)
+![a](/images/bailey3.jpeg)
 
 It never cooled off over night, so the 2,500' climb back up to the Tonto Platform was surprising grueling. We had a short day of hiking to the Havasupai Gardens, where we had planned a long side trip down the Devil's Corkscrew. I was feeling pretty sick, so I rested while Bailey went exploring. 
 
-![a](/images/bailey21.jpg)
+![a](/images/bailey21.jpeg)
 ![a](/images/IMG_8689.jpeg)
 ![a](/images/IMG_8697.jpeg)
-![a](/images/bailey17.jpg)
-![a](/images/bailey13.jpg)
-![a](/images/bailey6.jpg)
-![a](/images/bailey10.jpg)
-![a](/images/bailey15.jpg)
+![a](/images/bailey17.jpeg)
+![a](/images/bailey13.jpeg)
+![a](/images/bailey6.jpeg)
+![a](/images/bailey10.jpeg)
+![a](/images/bailey15.jpeg)
 ![a](/images/IMG_8703.jpeg)
-![a](/images/bailey1.jpg)
+![a](/images/bailey1.jpeg)
 
 While eating dinner, we ended up chatting with Daniel, a seeming Grand Canyon legend. He has backpacked every year in the canyon since 1975 (!!), he completed an unassisted traverse of the entire canyon in the eighties (when <30 people had done so), and has seemingly explored every nook and cranny of my map that I could ask him about. We caught him on the first night of a two month trip completely below the rim, having spent the last week burying food and water in the canyon. I don't know if he was more stoked about his trip than I was. He got a big kick when I told him I wanted to be like him when I grew up. 
 
@@ -120,8 +120,8 @@ While eating dinner, we ended up chatting with Daniel, a seeming Grand Canyon le
 Feeling a bit better after lots of rest, we traversed our last section of the Tonto Trail to meet up with the South Kaibab Trail. Suddenly everything was blooming.
 
 ![a](/images/IMG_8704.jpeg)
-![a](/images/bailey8.jpg)
-![a](/images/bailey30.jpg)
+![a](/images/bailey8.jpeg)
+![a](/images/bailey30.jpeg)
 
 The hordes on Kaibab trail were pretty minimal since it was still early in the morning and rim to rimmers have been stymied by closure of the north rim due to the Dragon Bravo fire which burned most of last summer. The trail is a dusty divotted mess owing to the mule trains which use it as a highway. 
 
@@ -132,8 +132,8 @@ After enjoying the exorbitant lemonade at Phantom Ranch, we continued north befo
 
 ![a](/images/IMG_8729.jpeg)
 ![a](/images/IMG_8740.jpeg)
-![a](/images/bailey18.jpg)
-![a](/images/bailey4.jpg)
+![a](/images/bailey18.jpeg)
+![a](/images/bailey4.jpeg)
 
 The descent to Clear Creek was definitely a highlight of the day, traversing a steep slope of brilliantly orange Hakatai Shale. You can get an idea from this photo by the creek. 
 
@@ -147,13 +147,13 @@ There was a ton to explore in the Clear Creek area—famous Cheyava Falls five m
 
 
 ![a](/images/IMG_8747.jpeg)
-![a](/images/bailey11.jpg)
-![a](/images/bailey12.jpg)
-![a](/images/bailey14.jpg)
+![a](/images/bailey11.jpeg)
+![a](/images/bailey12.jpeg)
+![a](/images/bailey14.jpeg)
 ![a](/images/IMG_8750.jpeg)
 ![a](/images/IMG_8751.jpeg)
 ![a](/images/IMG_8758.jpeg)
-![a](/images/bailey19.jpg)
+![a](/images/bailey19.jpeg)
 
 After spending the night at the ranger's cabin, we got a ride back to Flagstaff in less than ten minutes of thumbs-out. They deposited us at In-N-Out, as all good hitchhikes drivers should. 
 ![a](/images/IMG_8763.jpeg)
