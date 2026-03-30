@@ -158,7 +158,6 @@ There was a ton to explore in the Clear Creek area—famous Cheyava Falls five m
 After spending the night at the ranger's cabin, we got a ride back to Flagstaff in less than ten minutes of thumbs-out. They deposited us at In-N-Out, as all good hitchhikes drivers should. 
 ![a](/images/IMG_8763.jpeg)
 ![a](/images/IMG_8765.jpeg)
-![a](/images/IMG_8759.jpeg)
 
 Time to go back to reality. 
 
