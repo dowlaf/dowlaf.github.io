@@ -13,11 +13,11 @@ I like to think about dynamical systems with an eye towards geometry and number 
 
 I'm currently reading
 
-- *Ergodic Theory and Topological Dynamics of Group Actions on Homogeneous Spaces* by M. Bachir Bekka and Matthias Mayer
-- *A Gentle Course in Local Class Field Theory* by Pierre Guillot
-- *Semiclassical Analysis* by Maciej Zworski
-- *Faust, Part Two* by Goethe
+- *Ergodic Theory and Semisimple Groups* by Zimmer
+- *Riemannian Geometry* by Gallot, Hulin, and Lafontaine
+- *Microlocal Analysis for Differential Operators* by Grigis and Sjöstrand
 - *Gravity's Rainbow* by Thomas Pynchon
+- *Collected Poems* by Hart Crane
 
 
-(Last updated March 29, 2026)
+(Last updated May 5, 2026)
