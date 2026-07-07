@@ -16,8 +16,7 @@ I'm currently reading
 - *Ergodic Theory and Semisimple Groups* by Zimmer
 - *Riemannian Geometry* by Gallot, Hulin, and Lafontaine
 - *Microlocal Analysis for Differential Operators* by Grigis and Sjöstrand
-- *Gravity's Rainbow* by Thomas Pynchon
-- *Collected Poems* by Hart Crane
+- *The Peregrine* by J.A. Baker
 
 
-(Last updated May 5, 2026)
+(Last updated July 7, 2026)
