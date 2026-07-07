@@ -7,7 +7,7 @@ tags:
 categories: 
   - backpacking
 header:
-  teaser: IMG_0036
+  teaser: /uinta-2026-images/IMG_0036.jpeg
 ---
 
 Feeling the need to drive off the spleen and regulate the circulation, growing grim about the mouth, lingering before coffin warehouses, my hypos getting the best of me, a drizzly November in my soul, et cetera et cetera, I knew it was time for a backpacking trip. 
@@ -116,4 +116,4 @@ Despite feeling crappy the whole trip, the trip was super fun and my appetite fo
 
 ![a](/images/uinta-2026-images/IMG_0062.jpeg)
 
-<a name="myfootnote1">1</a>: In particular, see David Ayala's rather uniquely poetic trip report [here](https://math.montana.edu/dayala/documents/UT13ers.pdf). He may be the first person I've ever seen write trip reports in LaTeX, and with such distinctive voice. At the other end of the spectrum, see Joey Campanelli's report [here](https://joeycamps.blogspot.com/2021/09/utah-thirteeners.html).
+<a name="myfootnote1">1</a>: In particular, see David Ayala's uniquely poetic trip report [here](https://math.montana.edu/dayala/documents/UT13ers.pdf). He may be the first person I've ever seen write trip reports in LaTeX, and with such distinctive voice. At the other end of the spectrum, see Joey Campanelli's report [here](https://joeycamps.blogspot.com/2021/09/utah-thirteeners.html).
