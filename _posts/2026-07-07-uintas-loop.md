@@ -12,7 +12,7 @@ header:
 
 Feeling the need to drive off the spleen and regulate the circulation, growing grim about the mouth, lingering before coffin warehouses, my hypos getting the best of me, a drizzly November in my soul, et cetera et cetera, I knew it was time for a backpacking trip. 
 
-Inspired by the phenomenal displays of athleticism [here](https://fastestknowntime.com/route/utah-thirteeners-ut) and my nascent desire to peakbag, I set out to hike several of Utah 13,000 foot peaks, all nineteen (or twenty one, depending on how you count) of which are located in eastern Utah's High Uintas Wilderness. I planned a loop hitting all but a pentad further west than the main conglomeration. This was a deliberate divergence from the through-hike mentality, where one moves quickly through the landscape; instead, I would spend hours talus hopping up and down peaks in a few drainages, thereby slowing down and spending more time in a place. This wasn't how the trip turned out at all.
+Inspired by the phenomenal displays of athleticism [here](https://fastestknowntime.com/route/utah-thirteeners-ut) and my nascent desire to peakbag, I set out to hike several of Utah 13,000 foot peaks, all nineteen (or twenty one, depending on how you count) of which are located in eastern Utah's High Uintas Wilderness.<sup>[1](#myfootnote1)</sup> I planned a loop hitting all but a pentad further west than the main conglomeration. This was a deliberate divergence from the through-hike mentality, where one moves quickly through the landscape; instead, I would spend hours talus hopping up and down peaks in a few drainages, thereby slowing down and spending more time in a place. This wasn't how the trip turned out at all.
 
 I ended up doing a loop of ~47 miles with about 9,000 feet of elevation gain, hitting just one peak (Kings Peak) while visiting seven major drainages. 
 
@@ -114,3 +114,4 @@ All the wildflowers made me a little happier, and I eventually made it back to m
 
 Despite feeling crappy the whole trip, the trip was super fund and my appetite for Uintas exploration is only just whetted.
 
+<a name="myfootnote1">1</a>: In particular, see David Ayala's rather uniquely poetic trip report [here](https://math.montana.edu/dayala/documents/UT13ers.pdf). He may be the first person I've ever seen write trip reports in LaTeX, and with such distinctive voice. At the other end of the spectrum, see Joey Campanelli's report [here](https://joeycamps.blogspot.com/2021/09/utah-thirteeners.html).
