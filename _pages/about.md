@@ -6,17 +6,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year graduate student at Rice University.
+I'm a second-year graduate student at Rice University supervised by [David Fisher](https://sites.google.com/view/davidmfisher).
 
-I like to think about dynamical systems with an eye towards geometry and number theory, and I'm a fan of many other areas of mathematics. 
+I like to think about dynamical systems with an eye towards geometry and group theory, and I'm a fan of many other areas of mathematics. 
 
 
 I'm currently reading
 
 - *Ergodic Theory and Semisimple Groups* by Zimmer
-- *Riemannian Geometry* by Gallot, Hulin, and Lafontaine
-- *Microlocal Analysis for Differential Operators* by Grigis and Sjöstrand
-- *The Peregrine* by J.A. Baker
+- "An Extension of Margulis' Super-Rigidity Theorem" by Uri Bader and Alex Furman
+- *How to be Alone* by Jonathan Franzen
+- *Selected Poems and Prose of Paul Celan* by Paul Celan
 
 
-(Last updated July 7, 2026)
+(Last updated September 1, 2026)

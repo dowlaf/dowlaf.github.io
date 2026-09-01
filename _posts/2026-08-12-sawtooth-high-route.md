@@ -7,7 +7,7 @@ tags:
 categories: 
   - backpacking
 header:
-  teaser: /images/sawtooth-2026-images/IMG_0293.jpeg
+  teaser: /sawtooth-2026-images/IMG_0293.jpeg
 ---
 After a whirlwind of travel from Mexico City to Salt Lake City and finally to Stanley, Idaho, it was August 11th, I was camping out with Hannah (Road Runner, for long-time readers) for the first time in almost a year, and all felt right in the universe. This feeling of bliss continued during breakfast at the Stanley Bakery, and by 9:30 I was reunited with Chloe (Cinderella) and we were walking in a line down a trail as we should. Alas, it wasn't a full PCT reunion without Buff Baby and The Model, but I still felt ecstatic. 
 
@@ -38,7 +38,7 @@ We pondered a few murky tarns before climbing a bit more to the majestic Lake 90
 
 Contouring high clockwise around the lake to avoid some sheer bluffs, the final climb resolved into a straightforward meadow march to our first real pass. Before that began, we ran into an eccentric guy in sandals doing the same route as us southbound. In keeping with my experience on the PCT, he "warned" us about several challenging terrain features that awaited us, all of which—without exception—were greatly exaggerated or dead wrong. 
 
-![a](/images/sawtooth-2026-images/IMG_0764.jpeg)
+![a](/images/sawtooth-2026-images/IMG_0253.jpeg)
 
 Trying to keep up with my two crusher partners after a week of math, Mexican food, and meager exercise in Mexico, I came very close to an all-out bonk on this climb. Fortunately, I made it to the top, crashed down, and attempted to revive myself with a big dose of peanut butter M&Ms and a liter of water. My medicine kicked in by the time we reached Heart Lake for a late lunch. 
 
