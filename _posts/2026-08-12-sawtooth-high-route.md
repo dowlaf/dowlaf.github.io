@@ -50,7 +50,7 @@ Feeling back to my best after a dip and some food, we sallied forth up and over 
 
 ![a](/images/sawtooth-2026-images/IMG_0264.jpeg)
 ![a](/images/sawtooth-2026-images/IMG_3694.jpeg)
-![a](/images/sawtooth-2026-images/IMG_3698.jpeg)
+![a](/images/sawtooth-2026-images/IMG_3696.jpeg)
 
 We shot down the trail towards Hidden Lake, where we diverged from it and wrapped west to the next drainage over. Feeling exhausted at this point, with even a slight incline causing my heart rate to redline, I told my friends I could take no more. Relenting, we made camp under the stars at a small tarn off trail, ending a day of fifteen miles and five thousand feet of gain.
 
